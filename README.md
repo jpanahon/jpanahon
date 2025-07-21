@@ -19,7 +19,7 @@ I am a mess that can utilize several programming languages and technologies. <br
 I am mostly self taught, but I would not consider myself proficient in any language as I am always learning. <br>
 Not currently looking for any collaborators in my projects, but contributions are welcome. <br>
 I don't mind if you fork my repositories, as long as you keep your fork open source. <br>
-<b> Currently looking for work as I am close to graduation. </b>
+<b> Currently looking for work</b>
 </p>
 
 ### Languages and Technologies I've used:
